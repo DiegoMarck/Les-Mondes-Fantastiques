@@ -61,6 +61,7 @@ body>header>h1{
 	text-transform: uppercase;
 	color: #555;
 	font-weight: lighter;
+	margin-left: 10px;
 }
 .logo img{
 	height: 100px;
